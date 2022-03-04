@@ -1,4 +1,4 @@
-package com.keycloack;
+package com.keycloack.dto;
 
 import lombok.Data;
 

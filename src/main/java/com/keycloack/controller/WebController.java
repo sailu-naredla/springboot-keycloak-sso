@@ -10,7 +10,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import com.keycloack.Customer;
+import com.keycloack.dto.Customer;
 
 @Controller
 public class WebController {
